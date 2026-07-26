@@ -1,0 +1,4 @@
+2026/07/27-00:10:32.634 610 Reusing MANIFEST C:\Users\Mhamad\Desktop\finding whatsapp\wa_session\Default\shared_proto_db/MANIFEST-000001
+2026/07/27-00:10:32.634 610 Recovering log #3
+2026/07/27-00:10:32.634 610 (ignoring error) C:\Users\Mhamad\Desktop\finding whatsapp\wa_session\Default\shared_proto_db/000003.log: dropping 31 bytes; Corruption: missing start of fragmented record(2)
+2026/07/27-00:10:32.635 610 Reusing old log C:\Users\Mhamad\Desktop\finding whatsapp\wa_session\Default\shared_proto_db/000003.log 
